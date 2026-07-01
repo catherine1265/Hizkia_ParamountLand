@@ -12,3 +12,9 @@ venv/
 # Editor / local
 .vscode/
 *.log
+
+# Node / Next.js
+node_modules/
+web/node_modules/
+.next/
+web/.next/
