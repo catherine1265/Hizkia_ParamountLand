@@ -1,0 +1,38 @@
+{
+  "whatsapp": "https://wa.me/6281211418507",
+  "instagram": "https://www.instagram.com/paramountland_hizkia",
+  "tiktok": "https://www.tiktok.com/@hizkiaaaas",
+  "youtube": null,
+  "post_terbaru": [
+    {
+      "platform": "instagram",
+      "tipe": "reel",
+      "url": "https://www.instagram.com/reel/DZ3sf9nyF48/"
+    },
+    {
+      "platform": "instagram",
+      "tipe": "reel",
+      "url": "https://www.instagram.com/reel/DZxFuDAy1EP/"
+    },
+    {
+      "platform": "tiktok",
+      "tipe": "video",
+      "url": "https://vt.tiktok.com/ZSCmNh1cK/"
+    },
+    {
+      "platform": "tiktok",
+      "tipe": "video",
+      "url": "https://vt.tiktok.com/ZSCmNJ2Dc/"
+    },
+    {
+      "platform": "tiktok",
+      "tipe": "video",
+      "url": "https://vt.tiktok.com/ZSCmNdHe8/"
+    },
+    {
+      "platform": "tiktok",
+      "tipe": "video",
+      "url": "https://vt.tiktok.com/ZSCmLEDbU/"
+    }
+  ]
+}

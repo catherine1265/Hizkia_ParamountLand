@@ -1,0 +1,44 @@
+[ISI DI SINI — lalu boleh overwrite/convert ke daftar-proyek.docx]
+
+Copy blok di bawah ini untuk SETIAP proyek yang kamu handle. Field bertanda (opsional) boleh dikosongkan dulu.
+
+===========================================
+PROYEK #1
+===========================================
+
+--- Info Dasar ---
+Nama Proyek: (contoh) Paramount Skyline
+Slug/URL (opsional, huruf kecil-tanpa spasi): (contoh) paramount-skyline
+Lokasi (area/kota): (contoh) Gading Serpong, Tangerang
+Alamat Lengkap Marketing Office (opsional):
+Status Proyek: (pilih salah satu) Pre-Launch / Ready Stock / Sold Out Sebagian / Sudah Serah Terima
+
+--- Unit & Harga ---
+Tipe Unit yang Dijual: (contoh) Rumah 2 Lantai Tipe 6x12, Tipe 6x15 / Ruko / Apartemen dst
+Luas Tanah & Bangunan per Tipe: (contoh) LT 72 / LB 90)
+Jumlah Kamar Tidur & Kamar Mandi: (contoh) 3+1 KT, 2+1 KM
+Harga Mulai Dari (Rp): (contoh) Rp 2.5 Miliar
+Skema Pembayaran yang Ditawarkan (opsional): (contoh) Cash Keras, Cash Bertahap, KPR, DP 0%
+
+--- Daya Tarik / Selling Points (untuk copywriting landing page) ---
+3-5 Keunggulan Utama Proyek: (contoh)
+1. Lokasi strategis dekat tol
+2. One gate system & keamanan 24 jam
+3. Fasilitas club house & kolam renang
+4. Dekat sekolah internasional
+5. Investasi value tinggi
+
+Fasilitas Kawasan/Cluster: (contoh) Taman, jogging track, area komersial, sekolah, dll
+Legalitas: (contoh) SHM / HGB, sudah/belum PBG
+
+--- Media (isi nama file yang kamu upload di folder terkait) ---
+Nama Folder Foto: foto-paramount-skyline/ (isi foto eksterior, interior, masterplan di folder ini)
+Link Video/YouTube (opsional):
+Nama File Brosur PDF: brosur-paramount-skyline.pdf (taruh di folder /brosur)
+
+--- Kontak Khusus Proyek (opsional, kalau beda dari WA utama) ---
+No. WA Khusus Proyek Ini (jika ada):
+
+===========================================
+PROYEK #2 (copy blok di atas lagi untuk proyek berikutnya)
+===========================================

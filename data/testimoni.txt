@@ -1,0 +1,5 @@
+
+Nama Klien : xxx
+Proyek yang Dibeli: xxx
+Isi Testimoni: xxx
+Foto Klien (opsional, nama file): testimoni-1.jpg
