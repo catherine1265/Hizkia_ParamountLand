@@ -1,5 +1,5 @@
 import { semuaProyek } from "@/lib/data";
-import CardProyek from "@/components/CardProyek";
+import ProyekFilter from "@/components/ProyekFilter";
 import Footer from "@/components/Footer";
 
 export const metadata = {
@@ -14,10 +14,8 @@ export default function ProyekIndex() {
         <p className="mt-2 text-[var(--color-ink-soft)]">
           {semuaProyek.length} proyek di Paramount Gading Serpong.
         </p>
-        <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {semuaProyek.map((p) => (
-            <CardProyek key={p.slug} p={p} />
-          ))}
+        <div className="mt-10">
+          <ProyekFilter proyek={semuaProyek} />
         </div>
       </section>
       <Footer />
