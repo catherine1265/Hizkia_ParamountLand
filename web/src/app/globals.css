@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Design tokens — ala apple.com
+   ============================================================ */
+@theme {
+  --color-bg: #ffffff;
+  --color-bg-soft: #f5f5f7;
+  --color-bg-dark: #000000;
+  --color-ink: #1d1d1f;
+  --color-ink-soft: #6e6e73;
+  --color-ink-invert: #f5f5f7;
+  --color-accent: #0071e3;
+  --color-accent-hover: #0077ed;
+  --color-line: #d2d2d7;
+
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Display",
+    "Helvetica Neue", Arial, sans-serif;
+
+  --radius-card: 14px;
+  --radius-pill: 980px;
+
+  --shadow-soft: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-lift: 0 8px 24px rgba(0, 0, 0, 0.1);
+  --shadow-hero: 0 20px 48px rgba(0, 0, 0, 0.14);
+
+  --ease-apple: cubic-bezier(0.28, 0.11, 0.32, 1);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Reveal on scroll */
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.reveal {
+  animation: reveal-up 0.7s var(--ease-apple) both;
+}
